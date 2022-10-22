@@ -1,0 +1,2 @@
+pickupline~=3.0
+instagrapi~=1.16.29
